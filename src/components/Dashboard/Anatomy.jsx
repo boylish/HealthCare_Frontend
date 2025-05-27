@@ -1,6 +1,6 @@
 import React from "react";
 import body from "../../assets/body.png";
-import bone from "../../assets/bone.png";
+import bone from "../../assets/Bone.png";
 import teeth from "../../assets/teeth.png";
 import lungs from "../../assets/lungs.png";
 import { Progress } from "@/components/ui/progress";
